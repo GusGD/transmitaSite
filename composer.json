@@ -1,4 +1,9 @@
 {
+    "autoload": {
+        "psr-4": {
+            "assets\\":"assets" 
+        }
+    },
     "require": {
         "phpmailer/phpmailer": "^6.1"
     }
