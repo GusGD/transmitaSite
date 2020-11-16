@@ -1,5 +1,5 @@
 <?php
-
+    
 use PHPMailer\PHPMailer\PHPMailer;
 
 $msg = '';
@@ -48,7 +48,7 @@ if (array_key_exists('email', $_POST)) {
 ?>
 
 <div class="section-contacts tc" id="contacts">
-<hr class="divisor_class hr_footer">
+    <hr class="divisor_class hr_footer">
     <div class="container">
         <div class="row">
             <div id="contato" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
